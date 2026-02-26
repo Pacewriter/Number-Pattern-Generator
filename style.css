@@ -1,0 +1,59 @@
+.container{
+    
+    margin: auto;
+    padding: 20px;
+    max-width: 900px;
+    width: 90%;
+    
+}
+
+body{
+    background-color: aliceblue;
+}
+
+
+h1{
+  color: midnightblue;
+  font-size: clamp(2.5rem, 6vw, 5rem);
+  margin-top: 5%;
+  text-align: center;
+}
+
+h2{
+    color: midnightblue;
+    font-size: clamp(1.5rem, 4vw, 3rem);
+    margin-top: 3%; 
+}
+
+#number-list{
+    color: midnightblue;
+    font-size: clamp(1rem, 3.1vw, 1.5rem);
+    font-weight: bold;
+    margin: 2%;
+}
+
+#sum{
+   color: midnightblue;
+    font-size: clamp(1.5rem, 3.6vw, 2rem);
+    font-weight: bold;
+    margin: 2%; 
+}
+
+#message{
+   color: midnightblue;
+    font-size: clamp(0.8rem, 2.8vw, 1.3rem);
+    font-weight: bold;
+    margin: 2%;
+    text-align: center;
+}
+
+.number-form{
+    margin: 3%;
+}
+
+label{
+    color: midnightblue;
+    font-size: clamp(2rem, 4.5vw, 2.5rem);
+    font-weight: bold;
+}
+
